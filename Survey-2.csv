@@ -1,0 +1,158 @@
+ Gender, Age, Sleep_hour,Energy_level,Constipation ,Protein_intake,Sugar_intake ,Green_veggies_freq, Raw_fruits_freq,Water_intake_freq,Roti_chapati_intake , Exercise_freq,Stress_level, Hearing_defect ,Junk_food_freq,Protein,Carbohydrates,Vitamins ,Iron,Digestion,Obesity_chances
+Female,19,6 to 8 hours ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Daily,8,5,8,7,4,1
+Male,20,6 to 8 hours ,"Sometimes low , sometimes high",Sometimes  ,Yes,High,Once a week  ,Daily,Less than 6 glasses  ,Both in a day  ,Yes,Moderate  ,No,Daily,7,7,6,6,4,3
+Male,20,6 to 8 hours ,"Sometimes low , sometimes high",Sometimes  ,No,Normal,Once a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,6,8,7,5,4
+Female,19,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Daily,8,7,7,7,8,1
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,7,8,8,4,1
+Male,20,More than 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,8,8,7,6,4,2
+Male,21,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,8,7,7,6,2
+Male,21,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,High,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,7,6,6,7,3
+Female,19,Less than 5 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,7,7,5,6,3
+Female,21,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,7,8,6,5,5,2
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Normal,Several times a week  ,Daily,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,7,6,6,4,2
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,High,Once a week  ,Daily,Less than 6 glasses  ,Both in a day  ,Yes,Moderate  ,No,Daily,7,8,7,6,7,2
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Once a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Daily,7,7,6,5,5,2
+Male,22,More than 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,"High ( lost someone Close ,  etc)",No,Once or twice in a week  ,7,8,5,8,3,2
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,5,5,6,2,2
+Female,21,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,8,5,6,2,2
+Male,22,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Normal,Once a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Daily,5,5,4,4,5,4
+Female,21,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Very low ,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Low,No,Once or twice in a week  ,4,8,5,8,5,3
+Female,24,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Daily,Less than 6 glasses  ,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,7,8,5,8,3,2
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",Regularly ,Yes,Normal,Daily ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,5,4,8,8,2
+Male,22,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low ,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,8,4,7,2,2
+Male,19,6 to 8 hours  ,High  ,Sometimes  ,Yes,Normal,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,8,8,4,5,4,2
+Male,23,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Normal,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Daily,5,8,7,5,5,7
+Female,23,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,6,8,6,7,5
+Male,23,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,5,8,7,6,7,5
+Male,22,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,No,None,No,Once or twice in a week  ,5,8,7,6,5,5
+Female,15,Less than 5 hours  ,"Sometimes low , sometimes high",No,No,High,Daily ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,5,6,8,5,7,5
+Female,25,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,6 to 8 glasses,Both in a day  ,No,Low,No,Daily,8,8,8,5,5,7
+Female,24,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,6,8,8,6,5,5
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",Regularly ,No,Normal,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,6,8,7,6,3,5
+Female,31,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,High,Several times a week  ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Daily,7,6,8,6,8,7
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Daily ,Once a week,6 to 8 glasses,Both in a day  ,No,Low,No,Once or twice in a week  ,7,8,7,5,8,5
+Male,19,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,Yes,Low,No,Daily,7,6,8,7,8,7
+Female,20,Less than 5 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,8,7,6,7,4
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Very low  ,Daily ,Several times a week,Less than 6 glasses  ,Only rice in a day  ,No,Moderate  ,No,Once or twice in a week  ,4,4,7,5,8,5
+Female,21,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,Less than 6 glasses  ,Only rice in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,4,8,5,6,4
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,High,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Daily,7,8,8,6,6,7
+Male,20,Less than 5 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Once a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,7,8,5,8,5
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Daily,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,Hearing problem,Once or twice in a week  ,7,7,6,5,5,5
+Female,21,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Very low  ,Several times a week  ,Once a week,Less than 6 glasses  ,Only rice in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,6,3,5,5,6
+Male,27,More than 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Daily ,Daily,Less than 6 glasses  ,Only rice in a day  ,Yes,Moderate  ,No,Sometimes in a month  ,6,6,1,8,7,2
+Female,23,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,8,5,7,7,5
+Female,22,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Once a week  ,,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,4,8,6,8,7,2
+Female,19,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,4,7,8,6,7,2
+Female,23,6 to 8 hours  ,High  ,No,Yes,Very low  ,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,7,7,6,7,7,2
+Female,20,6 to 8 hours  ,High  ,No,No,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,4,7,4,6,7,5
+Male,19,Less than 5 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,High,Daily ,Once a week,Less than 6 glasses  ,Both in a day  ,Yes,Moderate  ,No,Daily,7,8,6,6,8,0
+Male,22,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Once a week  ,Once a week,6 to 8 glasses,Both in a day  ,Yes,None,No,Once or twice in a week  ,6,7,8,6,6,0
+Male,61,Less than 5 hours  ,Always low  ,Sometimes  ,No,Normal,Daily ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,None,No,Sometimes in a month  ,8,8,7,7,8,0
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Low,No,Once or twice in a week  ,5,7,5,6,5,1
+Male,20,6 to 8 hours  ,Always low  ,Sometimes  ,No,Normal,Once a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Daily,8,8,8,8,7,0
+Female,19,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,7,6,7,7,0
+Female,18,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,7,8,8,7,0
+Male,20,Less than 5 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,5,7,7,6,5,0
+Male,21,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,High,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,8,7,7,7,8,0
+Female,37,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Once a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,8,8,6,6,8,0
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Daily ,Once a week,6 to 8 glasses,Both in a day  ,Yes,Low,No,Once or twice in a week  ,6,7,6,7,7,0
+Male,26,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,Yes,None,No,Sometimes in a month  ,7,6,7,6,7,0
+Female,25,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,High,Daily ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,8,7,7,7,0
+Female,19,More than 8 hours  ,High  ,No,Yes,Very low  ,Daily ,Several times a week,Less than 6 glasses  ,Both in a day  ,Yes,Low,No,Once or twice in a week  ,7,7,7,6,8,0
+Female,51,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,8,6,6,6,7,0
+Male,23,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,No,None,No,Once or twice in a week  ,6,8,6,6,7,0
+Female,21,More than 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Once a week  ,Daily,6 to 8 glasses,Only rice in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,8,6,5,6,0
+Female,40,Less than 5 hours  ,Always low  ,Sometimes  ,Yes,Very low  ,Daily ,Daily,6 to 8 glasses,Both in a day  ,Yes,"High ( lost someone Close ,  etc)",No,Once or twice in a week  ,7,8,6,5,6,0
+Female,40,Less than 5 hours  ,Always low  ,Sometimes  ,Yes,Very low  ,Daily ,Daily,6 to 8 glasses,Both in a day  ,Yes,None,No,Once or twice in a week  ,7,6,6,6,5,0
+Male,18,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Low,No,Once or twice in a week  ,6,6,7,7,6,0
+Male,20,Less than 5 hours  ,High  ,No,Yes,Very low  ,Daily ,Once a week,6 to 8 glasses,Only rice in a day  ,No,Low,No,Once or twice in a week  ,7,7,7,7,7,0
+Female,22,6 to 8 hours  ,High  ,No,Yes,Very low  ,Daily ,Daily,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Sometimes in a month  ,7,8,7,6,7,0
+Female,42,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,Less than 6 glasses  ,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,7,8,7,7,6,0
+Male,44,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,8,8,8,7,8,0
+Female,18,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Daily ,Once a week,6 to 8 glasses,Only rice in a day  ,No,Low,No,Once or twice in a week  ,7,8,8,8,8,0
+Female,39,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,7,7,8,8,7,0
+Female,32,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Daily,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,8,6,7,6,8,0
+Female,23,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,7,8,7,6,7,0
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Once a week  ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,18,Less than 5 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,21,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,22,6 to 8 hours  ,Always low  ,No,No,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,20,6 to 8 hours  ,High  ,Sometimes  ,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,31,Less than 5 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Once a week  ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,43,Less than 6 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,Daily,6 to 8 glasses,Only chapatis in a day  ,Yes,Low,No,Sometimes in a month  ,,,,,,
+Female,52,Less than 6 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Daily ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,No,"High ( lost someone Close recently,  etc)",No,Once or twice in a week  ,,,,,,
+Female,49,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Once a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,46,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,45,Less than 6 hours  ,"Sometimes low , sometimes high",No,No,High,Daily ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,54,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,Yes,"High ( lost someone Close recently,  etc)",No,Once or twice in a week  ,,,,,,
+Female,46,6 to 8 hours  ,"Sometimes low , sometimes high",Regularly ,Yes,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,50,Less than 6 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Male,16,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,High,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Daily,,,,,,
+Female,16,More than 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Low,No,Once or twice in a week  ,,,,,,
+Female,52,Less than 6 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Once a week  ,Daily,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,48,Less than 6 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Normal,Daily ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,40,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,45,6 to 8 hours  ,"Sometimes low , sometimes high",Regularly ,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,48,6 to 8 hours  ,High  ,No,Yes,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,14,More than 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,High,Daily ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Daily,,,,,,
+Male,21,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,High,Daily ,Once a week,Less than 6 glasses  ,Both in a day  ,Yes,Low,No,Once or twice in a week  ,,,,,,
+Female,21,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Daily ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Male,14,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Daily,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,22,6 to 8 hours  ,High  ,Sometimes  ,No,Normal,Once a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,Yes,Low,No,Daily,,,,,,
+Female,15,Less than 6 hours  ,High  ,Sometimes  ,Yes,High,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,No,"High ( lost someone Close recently,  etc)",No,Once or twice in a week  ,,,,,,
+Female,46,Less than 6 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Daily ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,59 years,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Low,No,Once or twice in a week  ,,,,,,
+Male,14,6 to 8 hours  ,High  ,No,Yes,Normal,Daily ,Daily,6 to 8 glasses,Both in a day  ,Yes,None,No,Once or twice in a week  ,,,,,,
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Daily ,Once a week,6 to 8 glasses,Both in a day  ,Yes,Low,No,Once or twice in a week  ,,,,,,
+Female,17,6 to 8 hours  ,High  ,No,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,No,Low,No,Sometimes in a month  ,,,,,,
+Male,33,6 to 8 hours  ,High  ,No,Yes,Very low  ,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,14,Less than 6 hours  ,High  ,No,Yes,Very low  ,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,Yes,"High ( lost someone Close recently,  etc)",No,Sometimes in a month  ,,,,,,
+Female,15,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,23,6 to 8 hours  ,High  ,No,Yes,Very low  ,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,Yes,Low,No,Sometimes in a month  ,,,,,,
+Male,18,More than 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,18,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,High,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,"High ( lost someone Close recently,  etc)",Hearing problem,Daily,,,,,,
+Male,18,More than 8 hours  ,Always low  ,No,Yes,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Low,No,Daily,,,,,,
+Male,18,Less than 6 hours  ,Always low  ,No,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,Yes,"High ( lost someone Close recently,  etc)",No,Daily,,,,,,
+Male,20,Less than 6 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,High,Once a week  ,Once a week,6 to 8 glasses,Only rice in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Male,19,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,Less hearing,Sometimes in a month  ,,,,,,
+Male,19,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Once a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,19,6 to 8 hours  ,High  ,No,No,Very low  ,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,No,Low,No,Once or twice in a week  ,,,,,,
+Male,18,6 to 8 hours  ,High  ,No,No,Normal,Once a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,21,Less than 6 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,17,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,Less hearing,Sometimes in a month  ,,,,,,
+Male,19,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,High,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Daily,,,,,,
+Male,23,6 to 8 hours  ,Always low  ,Sometimes  ,No,Normal,Daily ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,Less hearing,Once or twice in a week  ,,,,,,
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,19,Less than 6 hours  ,Always low  ,No,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,19,6 to 8 hours  ,High  ,No,No,Normal,Daily ,Once a week,6 to 8 glasses,Both in a day  ,No,None,No,Sometimes in a month  ,,,,,,
+Female,18,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,19,More than 8 hours  ,High  ,No,Yes,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,17,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,18,More than 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,Yes,Low,Less hearing,Once or twice in a week  ,,,,,,
+Male,18,More than 8 hours  ,Always low  ,Regularly ,No,High,Daily ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,No,"High ( lost someone Close recently,  etc)",No,Daily,,,,,,
+Female,19,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,20,6 to 8 hours  ,High  ,No,Yes,Normal,Daily ,Several times a week,6 to 8 glasses,Only chapatis in a day  ,No,None,No,Sometimes in a month  ,,,,,,
+Male,19,More than 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Daily ,Several times a week,6 to 8 glasses,Both in a day  ,Yes,Low,No,Once or twice in a week  ,,,,,,
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Several times a week,Less than 6 glasses  ,Only chapatis in a day  ,Yes,Moderate  ,Less hearing,Once or twice in a week  ,,,,,,
+Male,19,More than 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,Once a week,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,19,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Very low  ,Several times a week  ,Daily,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Daily,,,,,,
+Male,19,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Daily,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,18,Less than 6 hours  ,"Sometimes low , sometimes high",No,No,Normal,Once a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,19,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Daily,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Male,17,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,Yes,None,No,Sometimes in a month  ,,,,,,
+Female,18,6 to 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Once a week  ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Female,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,25,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Daily,6 to 8 glasses,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,18,Less than 6 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Daily ,Once a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Once or twice in a week  ,,,,,,
+Male,20,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Daily ,Daily,6 to 8 glasses,Both in a day  ,Yes,Low,No,Sometimes in a month  ,,,,,,
+Female,18,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,Yes,Normal,Several times a week  ,Daily,6 to 8 glasses,Both in a day  ,Yes,Low,No,Sometimes in a month  ,,,,,,
+Male,18,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Very low  ,Several times a week  ,Several times a week,6 to 8 glasses,Both in a day  ,Yes,Moderate  ,No,Sometimes in a month  ,,,,,,
+Male,20,Less than 6 hours  ,Always low  ,No,Yes,Very low  ,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,No,Moderate  ,Less hearing,Once or twice in a week  ,,,,,,
+Female,19,More than 8 hours  ,"Sometimes low , sometimes high",No,No,Normal,Several times a week  ,Once a week,6 to 8 glasses,Only chapatis in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
+Female,18,6 to 8 hours  ,"Sometimes low , sometimes high",No,Yes,Normal,Several times a week  ,Once a week,Less than 6 glasses  ,Only chapatis in a day  ,Yes,Moderate  ,No,Sometimes in a month  ,,,,,,
+Male,17,6 to 8 hours  ,"Sometimes low , sometimes high",Sometimes  ,No,Normal,Several times a week  ,Several times a week,Less than 6 glasses  ,Both in a day  ,No,Moderate  ,No,Sometimes in a month  ,,,,,,
