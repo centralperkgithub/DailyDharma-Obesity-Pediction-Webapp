@@ -28,6 +28,9 @@ The app will display the predicted  obesity level  outcome.
 
 To exit the app, simply close the web page or press "Ctrl + C" in the command prompt or terminal.
 
+# PLEASE DO CHECKOUT THE PROJECT REPORT ATTACHED IN THIS REPO TO KNOW MORE ABOUT THIS PROJECT REGARDING ALGORITHMS USED , RESEARCHS , REFERRED SOURCES , ETC 
+
+
 ![Fill all this questions with full honesty to know the accurate results](https://github.com/centralperkgithub/DailyDharma-Obesity-Pediction-Webapp/assets/112709916/919dae9f-cdd8-4ec5-8641-576592f9101c)
 
 ![Fill all this questions with full honesty to know the accurate results](https://github.com/centralperkgithub/DailyDharma-Obesity-Pediction-Webapp/assets/112709916/dbc816a4-e25e-49b4-9c7b-13b3174ec00f)
