@@ -10,7 +10,7 @@ Prerequisites:
 
 Python 3.7 or higher Pip package installer Git (optional)
 
-Steps:
+# Steps:
 
 Step 1: Clone the project repository from GitHub to your local machine using git clone or download the repository as a zip file and extract it to a folder.
 
