@@ -1,6 +1,12 @@
 <img width="1426" height="676" alt="image" src="https://github.com/user-attachments/assets/81713184-b472-4cf6-af73-eb260b1eea50" />
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/posts/dhirendra-singh-b5b947243_machinelearning-datascience-webapp-activity-7198674036724273152-hIH0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx5VbcBlv1MYit8UbW3ADG9Xn8tXNg832g">
+    <img src="https://img.shields.io/badge/View%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
 
 # DailyDharma-Obesity-Pediction-Webapp
 
