@@ -1,3 +1,7 @@
+<img width="1426" height="676" alt="image" src="https://github.com/user-attachments/assets/81713184-b472-4cf6-af73-eb260b1eea50" />
+
+
+
 # DailyDharma-Obesity-Pediction-Webapp
 
 The objective of DailyDharma: Obesity Prediction ML model is to predict the likelihood of an individual  being facing or can face the condition of one of the 3 types of obesity in future based on various factors such as variations in daily habitual consumptions of food and drinks, family history  and other relevant data. The scope of this model is to help adults  identify the  potential chances of getting health issues starting from the obesity phase and to make informed decisions like changing habits and routines based on data-driven insights. I had represented this project as my academic minor project in the 3rd year of my graduation degree. 
